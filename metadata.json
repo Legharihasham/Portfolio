@@ -1,0 +1,8 @@
+{
+  "name": "devwith.hash | Muhammad Hasham Khan Portfolio",
+  "description": "Expert AI Engineer & Full-Stack Builder portfolio showcasing LLM-based systems, custom chatbots, and cybersecurity solutions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
