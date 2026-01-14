@@ -32,7 +32,7 @@ const Contact: React.FC = () => {
         </div>
 
         <div className="mt-16 flex items-center justify-center space-x-8">
-          <a href="https://instagram.com/devwith.hash" target="_blank" className="text-slate-500 hover:text-white transition-colors flex items-center space-x-2">
+          <a href="https://instagram.com/devwith_hash" target="_blank" className="text-slate-500 hover:text-white transition-colors flex items-center space-x-2">
             <Instagram size={24} />
             <span className="font-mono text-sm">@devwith.hash</span>
           </a>
