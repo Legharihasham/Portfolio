@@ -23,7 +23,7 @@ const Contact: React.FC = () => {
             <span>legharihasham408@gmail.com</span>
           </a>
           <a
-            href="#"
+            href="https://www.linkedin.com/in/muhammad-hasham-khan-b07365270/"
             className="flex items-center space-x-3 px-8 py-4 bg-blue-600 text-white rounded-full font-bold hover:scale-105 transition-all w-full sm:w-auto shadow-xl shadow-blue-500/20"
           >
             <Linkedin size={20} />
